@@ -1,0 +1,1411 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><EntityModelCatalog>
+
+<dbInfo name="Model" uuid="DEB2380315EE8E47AF7052ECFC4FADBC"/>
+
+<extraProperties ____objectunic="true" version="1">
+
+	<model ____objectunic="true" workspaceLeft="0" workspaceTop="1200">
+
+		<relationCurve ____objectunic="true" run="true" mode="1"/>
+</model>
+
+	<classes ____objectunic="true">
+
+		<AddCollection1 ____objectunic="true" panelColor="#BFBFBF">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="720" Y="1505"/>
+</panel>
+</AddCollection1>
+
+		<AddCollection2 ____objectunic="true" panelColor="rgb(191, 191, 191)">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+				<position ____objectunic="true" X="717" Y="1162"/>
+</panel>
+</AddCollection2>
+
+		<Attendee ____objectunic="true" panelColor="#548DD4">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+				<position ____objectunic="true" X="379" Y="1870"/>
+</panel>
+</Attendee>
+
+		<Component ____objectunic="true" panelColor="#8DB3E2">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+				<position ____objectunic="true" X="369" Y="634"/>
+</panel>
+</Component>
+
+		<Conference ____objectunic="true" panelColor="#996699">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="25" Y="1956"/>
+</panel>
+</Conference>
+
+		<Employee ____objectunic="true" panelColor="#548DD4">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="88" Y="2156"/>
+</panel>
+</Employee>
+
+		<Employee1 ____objectunic="true" panelColor="rgb(255, 255, 0)">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="58" Y="2517"/>
+</panel>
+</Employee1>
+
+		<Employee2 ____objectunic="true" panelColor="#D88CFF">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="62" Y="2652"/>
+</panel>
+</Employee2>
+
+		<Employee3 ____objectunic="true" panelColor="#eee">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="53" Y="2790"/>
+</panel>
+</Employee3>
+
+		<Engineer ____objectunic="true" panelColor="#7F7F7F">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="13" Y="1746"/>
+</panel>
+</Engineer>
+
+		<Flags ____objectunic="true" panelColor="#B7DDE8">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="440" Y="2861"/>
+</panel>
+</Flags>
+
+		<MyAutoSequenceNumberClass ____objectunic="true" panelColor="#CCC1D9">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="23" Y="1307"/>
+</panel>
+</MyAutoSequenceNumberClass>
+
+		<MyAutoSequenceNumberClassAt1 ____objectunic="true" panelColor="#BFBFBF">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="705" Y="764"/>
+</panel>
+</MyAutoSequenceNumberClassAt1>
+
+		<MyClass_IndexedAttributes ____objectunic="true" panelColor="#eee">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="736" Y="2326"/>
+</panel>
+</MyClass_IndexedAttributes>
+
+		<MyClass_QueryTests ____objectunic="true" panelColor="rgb(199, 61, 69)">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true" resizedHeight="">
+
+				<position ____objectunic="true" X="727" Y="1813"/>
+</panel>
+</MyClass_QueryTests>
+
+		<MyClass1 ____objectunic="true" panelColor="#CCC1D9">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="20" Y="129"/>
+</panel>
+</MyClass1>
+
+		<MyClass10 ____objectunic="true" panelColor="#996699">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+				<position ____objectunic="true" X="709" Y="1009"/>
+</panel>
+</MyClass10>
+
+		<MyClass2 ____objectunic="true" panelColor="#C4BD97">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+				<position ____objectunic="true" X="701" Y="155"/>
+</panel>
+</MyClass2>
+
+		<MyClass3 ____objectunic="true" panelColor="#D8D8D8">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+				<position ____objectunic="true" X="356" Y="477"/>
+</panel>
+</MyClass3>
+
+		<MyClass4 ____objectunic="true" panelColor="#548DD4">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="false" resizedHeight="">
+
+				<position ____objectunic="true" X="360" Y="289"/>
+</panel>
+</MyClass4>
+
+		<MyClass7 ____objectunic="true" panelColor="#B8CCE4">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+				<position ____objectunic="true" X="20" Y="530"/>
+</panel>
+</MyClass7>
+
+		<MyClass8 ____objectunic="true" panelColor="#70CCC2">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+				<position ____objectunic="true" X="711" Y="1315"/>
+</panel>
+</MyClass8>
+
+		<MyClass9 ____objectunic="true" panelColor="#D88CFF">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="362" Y="814"/>
+</panel>
+</MyClass9>
+
+		<MyClassForImageTest ____objectunic="true" panelColor="#fff">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+				<position ____objectunic="true" X="376" Y="1429"/>
+</panel>
+</MyClassForImageTest>
+
+		<MyClassForImageTest2 ____objectunic="true" panelColor="#4FA997">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+				<position ____objectunic="true" X="399" Y="2032"/>
+</panel>
+</MyClassForImageTest2>
+
+		<MyClassSave ____objectunic="true" panelColor="#76923C">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+				<position ____objectunic="true" X="358" Y="149"/>
+</panel>
+</MyClassSave>
+
+		<MyClassWithoutAttributs ____objectunic="true" panelColor="#996699" isMinimized="false">
+
+			<panel ____objectunic="true" isOpen="true">
+
+				<position ____objectunic="true" X="35" Y="17"/>
+</panel>
+</MyClassWithoutAttributs>
+
+		<MyEmptyClass ____objectunic="true" panelColor="#B7DDE8">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+				<position ____objectunic="true" X="360" Y="14"/>
+</panel>
+</MyEmptyClass>
+
+		<MyForEachClass ____objectunic="true" panelColor="#B2A2C7">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="373" Y="1591"/>
+</panel>
+</MyForEachClass>
+
+		<MyFromArrayClass ____objectunic="true" panelColor="#BFBFBF">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="22" Y="978"/>
+</panel>
+</MyFromArrayClass>
+
+		<MyNewAutoSequenceNumberClass ____objectunic="true" panelColor="#996699">
+
+			<panel ____objectunic="true" isOpen="true">
+
+				<position ____objectunic="true" X="384" Y="1319"/>
+</panel>
+</MyNewAutoSequenceNumberClass>
+
+		<MyNullClass ____objectunic="true" panelColor="#B2A2C7">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+				<position ____objectunic="true" X="696" Y="20"/>
+</panel>
+</MyNullClass>
+
+		<MyOrderbyClass ____objectunic="true" panelColor="#CCC1D9" isMinimized="false">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="32" Y="1447"/>
+</panel>
+</MyOrderbyClass>
+
+		<MyRemoveForEachClass ____objectunic="true" panelColor="#7F7F7F">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+				<position ____objectunic="true" X="705" Y="859"/>
+</panel>
+</MyRemoveForEachClass>
+
+		<OneToN ____objectunic="true" panelColor="#4FA997">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="426" Y="2405"/>
+</panel>
+</OneToN>
+
+		<OneToN2 ____objectunic="true" panelColor="rgb(118, 146, 60)">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+				<position ____objectunic="true" X="60" Y="2357"/>
+</panel>
+</OneToN2>
+
+		<OnSaveNoValidation ____objectunic="true" panelColor="#7F7F7F">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="438" Y="2576"/>
+</panel>
+</OnSaveNoValidation>
+
+		<People ____objectunic="true" panelColor="#C4BD97">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true" resizedHeight="">
+
+				<position ____objectunic="true" X="22" Y="681"/>
+</panel>
+</People>
+
+		<Personn ____objectunic="true" panelColor="#76923C">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="727" Y="1666"/>
+</panel>
+</Personn>
+
+		<RefuseEvent ____objectunic="true" panelColor="#B8CCE4">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="431" Y="3000"/>
+</panel>
+</RefuseEvent>
+
+		<TheComposite ____objectunic="true" panelColor="#B8CCE4">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="false" resizedHeight="">
+
+				<position ____objectunic="true" X="703" Y="589"/>
+</panel>
+</TheComposite>
+
+		<ToBeDroped ____objectunic="true" panelColor="#B8CCE4">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="378" Y="1729"/>
+</panel>
+</ToBeDroped>
+
+		<ToBeRemoved ____objectunic="true" panelColor="#D88CFF">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+				<position ____objectunic="true" X="698" Y="369"/>
+</panel>
+</ToBeRemoved>
+
+		<Users ____objectunic="true" panelColor="#D7E3BC">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="66" Y="2919"/>
+</panel>
+</Users>
+
+		<JavascriptFunctions ____objectunic="true" panelColor="#76923C">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="438" Y="2704"/>
+</panel>
+</JavascriptFunctions>
+
+		<Parent ____objectunic="true" panelColor="#4FA997">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="375" Y="1181"/>
+</panel>
+</Parent>
+
+		<Related ____objectunic="true" panelColor="#D88CFF">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="755" Y="2123"/>
+</panel>
+</Related>
+
+		<Child ____objectunic="true" panelColor="#7F7F7F">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="398" Y="2194"/>
+</panel>
+</Child>
+</classes>
+</extraProperties>
+
+<dataClasses name="AddCollection1" className="AddCollection1" collectionName="AddCollection1Collection" scope="public" uuid="8C444FAC0A61D64C8921DD5D987FBE85">
+
+	<extraProperties ____objectunic="true" panelColor="#BFBFBF">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="240" Y="1342"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="CF680A8362904A46BD05B7455696D194" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="name" kind="storage" scope="public" uuid="43B3D8CC5DBCBC45A1B96917D1E41E3E" type="string"/>
+
+	<attributes name="cnum" kind="storage" scope="public" uuid="AB809CB28C5CDD4E97946437FD73C297" type="number"/>
+
+</dataClasses>
+
+<dataClasses name="AddCollection2" className="AddCollection2" collectionName="AddCollection2Collection" scope="public" uuid="DD133851819D0142B68E15F942C1A0B3">
+
+	<extraProperties ____objectunic="true" panelColor="rgb(191, 191, 191)">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+			<position ____objectunic="true" X="458" Y="1356"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="FE8A7D3A017A9F438A15D1323B091585" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="name" kind="storage" scope="public" uuid="52F1F8C727A95D478275A879A0C43BCD" type="string"/>
+
+	<attributes name="cnum" kind="storage" scope="public" uuid="30F333388EA17B4B8E3429DDB07F3A88" type="number"/>
+
+</dataClasses>
+
+<dataClasses name="Attendee" className="Attendee" collectionName="AttendeeCollection" scope="public" uuid="E5A0C2A42357D04F8589E597D9A1A607">
+
+	<extraProperties ____objectunic="true" panelColor="#548DD4">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="346" Y="1861"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="ED813A25F89912429C10BE9DA07121AD" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="engineer" kind="relatedEntity" scope="public" uuid="5F8A5D9F1C91304EBD554E87124187D0" type="Engineer" path="Engineer"/>
+
+	<attributes name="conference" kind="relatedEntity" scope="public" uuid="A3A8E35A9D2D954589B8CBD953D63D61" type="Conference" path="Conference"/>
+
+</dataClasses>
+
+<dataClasses name="Component" className="Component" collectionName="ComponentCollection" scope="public" uuid="B01BC67829F6D74EB53F81CAAD31CD72">
+
+	<extraProperties ____objectunic="true" panelColor="#8DB3E2">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+			<position ____objectunic="true" X="304" Y="585"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="15D7049CC9B5F147AE1B3F652AF42DD0" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="name" kind="storage" scope="public" uuid="5E21868EC5C209468D1AFDEB170ACA13" type="string"/>
+
+	<attributes name="theComposite" kind="relatedEntity" scope="public" uuid="8AB01DDEE90C824786A4A44DCD4FA83A" type="TheComposite" path="TheComposite"/>
+
+</dataClasses>
+
+<dataClasses name="Conference" className="Conference" collectionName="ConferenceCollection" scope="public" uuid="1092C74785CA3C439881E8D348BD2D0F">
+
+	<extraProperties ____objectunic="true" panelColor="#996699">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="35" Y="1949"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="7209CE9A8FACA5488C82136B2E8EB792" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="title" kind="storage" scope="public" uuid="A151021916220E4DAC0354500F0111EA" type="string"/>
+
+	<attributes name="allAttendees" kind="relatedEntities" scope="public" type="AttendeeCollection" reversePath="true" path="conference"/>
+
+</dataClasses>
+
+<dataClasses name="Employee" className="Employee" collectionName="EmployeeCollection" scope="public" uuid="91AB35E717F0C64CAC5D57E225CFFCCB">
+
+	<extraProperties ____objectunic="true" panelColor="#548DD4">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="23" Y="2136"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="C4295A33613BC24096D791AB063BCE31" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="name" kind="storage" scope="public" uuid="C23DD49B3AB79B4181C31054B282F902" type="string"/>
+
+	<attributes name="firstname" kind="storage" scope="public" uuid="349738E49C45684C9585FDCFCA19A4F9" type="string"/>
+
+</dataClasses>
+
+<dataClasses name="Employee1" className="Employee1" collectionName="Employee1Collection" scope="public" uuid="D9326870BB9AC54CAD158DD208ECF09D">
+
+	<extraProperties ____objectunic="true" panelColor="rgb(255, 255, 0)">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="432" Y="2332"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="90E9F2B5019FDD4B936CE30279973EF6" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="nom" kind="storage" scope="public" uuid="10782A9074E16445A762C1DC743F66E3" type="string"/>
+
+	<events kind="onSave" from="guidedModel.Employee1.events.onSave"/>
+
+	<events kind="onLoad" from="guidedModel.Employee1.events.onLoad"/>
+
+	<events kind="onInit" from="guidedModel.Employee1.events.onInit"/>
+
+	<events kind="onRemove" from="guidedModel.Employee1.events.onRemove"/>
+
+	<events kind="onValidate" from="guidedModel.Employee1.events.onValidate"/>
+
+	<events kind="onRestrictingQuery" from="guidedModel.Employee1.events.onRestrictingQuery"/>
+
+</dataClasses>
+
+<dataClasses name="Employee2" className="Employee2" collectionName="Employee2Collection" scope="public" uuid="237B4EC64E50A94885D92C946C7BC06F">
+
+	<extraProperties ____objectunic="true" panelColor="#D88CFF">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="224" Y="2332"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="99FE9CE6C970F64EA031A6C0C0F852CC" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="nom" kind="storage" scope="public" uuid="DFBD504688E7CA43BD7A249485EA94C9" type="string">
+
+		<events kind="onSave" from="guidedModel.Employee2.nom.events.onSave"/>
+
+		<events kind="onLoad" from="guidedModel.Employee2.nom.events.onLoad"/>
+
+		<events kind="onInit" from="guidedModel.Employee2.nom.events.onInit"/>
+
+		<events kind="onRemove" from="guidedModel.Employee2.nom.events.onRemove"/>
+
+		<events kind="onValidate" from="guidedModel.Employee2.nom.events.onValidate"/>
+
+		<events kind="onSet" from="guidedModel.Employee2.nom.events.onSet"/>
+
+	</attributes>
+
+</dataClasses>
+
+<dataClasses name="Employee3" className="Employee3" collectionName="Employee3Collection" scope="public" uuid="99AA6EC1859B394E8A2822910F40D4F1">
+
+	<extraProperties ____objectunic="true" panelColor="#eee">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="17" Y="2331"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="B6FF0985BC9D2A429C00F719AB7B15AE" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="nom" kind="storage" scope="public" uuid="D16C98A77A7CF14B9EB24A0D870F37F9" type="string">
+
+		<events kind="onSave" from="guidedModel.Employee3.nom.events.onSave"/>
+
+		<events kind="onLoad" from="guidedModel.Employee3.nom.events.onLoad"/>
+
+		<events kind="onInit" from="guidedModel.Employee3.nom.events.onInit"/>
+
+		<events kind="onRemove" from="guidedModel.Employee3.nom.events.onRemove"/>
+
+		<events kind="onValidate" from="guidedModel.Employee3.nom.events.onValidate"/>
+
+		<events kind="onSet" from="guidedModel.Employee3.nom.events.onSet"/>
+
+	</attributes>
+
+	<events kind="onSave" from="guidedModel.Employee3.events.onSave"/>
+
+	<events kind="onLoad" from="guidedModel.Employee3.events.onLoad"/>
+
+	<events kind="onInit" from="guidedModel.Employee3.events.onInit"/>
+
+	<events kind="onRemove" from="guidedModel.Employee3.events.onRemove"/>
+
+	<events kind="onValidate" from="guidedModel.Employee3.events.onValidate"/>
+
+	<events kind="onRestrictingQuery" from="guidedModel.Employee3.events.onRestrictingQuery"/>
+
+</dataClasses>
+
+<dataClasses name="Engineer" className="Engineer" collectionName="EngineerCollection" scope="public" uuid="67153D7D7D5E2A49B8ED53E9CFD3133C">
+
+	<extraProperties ____objectunic="true" panelColor="#7F7F7F">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="37" Y="1767"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="9283792EC630CA40BF0A560475D5E781" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="name" kind="storage" scope="public" uuid="1D1B1A1B4559E349AA2CB2A0F976BB9D" type="string"/>
+
+	<attributes name="allAttendees" kind="relatedEntities" scope="public" type="AttendeeCollection" reversePath="true" path="engineer"/>
+
+</dataClasses>
+
+<dataClasses name="Flags" className="Flags" collectionName="FlagsCollection" scope="public" uuid="60407B5AC5DADC4F863CEED52AD8D4C8">
+
+	<extraProperties ____objectunic="true" panelColor="#B7DDE8">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="639" Y="2332"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="2CC969BB4D30AE4C810D18D9F1580B5E" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="event" kind="storage" scope="public" uuid="6E7F82F9E0D818419B0E6B369DB1573E" type="string"/>
+
+</dataClasses>
+
+<dataClasses name="IndexedDate" className="IndexedDate" collectionName="IndexedDateCollection" scope="public" uuid="B8D78B8447BD824BA77451E2F53E2F37">
+
+	<extraProperties ____objectunic="true" panelColor="#fff">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="740" Y="2486"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="60BE5111F1F89749844E0DD6D716A394" unique="true" autosequence="true" type="long"/>
+
+	<attributes name="cdate_Btree" kind="storage" scope="public" uuid="F1DBE9488EDE4542BB1FA46A735CB93C" type="date" simpleDate="false" indexKind="btree"/>
+
+	<attributes name="cdate_Cluster" kind="storage" scope="public" uuid="05F2CB1254717D4082235C304DD7B07E" type="date" simpleDate="false" indexKind="cluster"/>
+
+	<attributes name="cdate_Keywords" kind="storage" scope="public" uuid="E08A4AC292AC354AB223A14FB9D6BC75" type="date" simpleDate="false" indexKind="keywords"/>
+
+	<attributes name="cdate_Automatic" kind="storage" scope="public" uuid="F681D2EE0A491A4BA545D01F7CFC2D34" type="date" simpleDate="false" indexKind="auto"/>
+
+	<key name="ID"/>
+
+</dataClasses>
+
+<dataClasses name="JavascriptFunctions" className="JavascriptFunctions" collectionName="JavascriptFunctionsCollection" scope="public" uuid="0B4100A59FCF324782F6A7BDF3B0D148">
+
+	<attributes name="ID" kind="storage" scope="public" uuid="B1CA5C6EEE8ADE4F97D25C7156EEA9DC" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="name" kind="storage" scope="public" uuid="2A3FBEB3D3869747AF9523378E7E1DCE" type="string"/>
+
+	<attributes name="firstname" kind="storage" scope="public" uuid="DA4CE9ADBDD2A0428271A4AC79D1FCF3" type="string"/>
+
+</dataClasses>
+
+<dataClasses name="MyAutoSequenceNumberClass" className="MyAutoSequenceNumberClass" collectionName="MyAutoSequenceNumberClassCollection" scope="public" uuid="492E38C689D63848B9C8D293999ECED2">
+
+	<extraProperties ____objectunic="true" panelColor="#CCC1D9">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="23" Y="1307"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="B45BA3192DC79245B71DE90E0CBC11DB" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="cnum" kind="storage" scope="public" uuid="45D1DB61FDD19049AB5932448AB6A191" type="number"/>
+
+</dataClasses>
+
+<dataClasses name="MyAutoSequenceNumberClassAt1" className="MyAutoSequenceNumberClassAt1" collectionName="MyAutoSequenceNumberClassAt1Collection" scope="public" uuid="49535DFD0A36A34982D2C90ED81ADB23">
+
+	<extraProperties ____objectunic="true" panelColor="#BFBFBF">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="602" Y="695"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="6B3BA5651D25D348B97DECF2EBEA7845" unique="true" autosequence="true" type="long" primKey="true"/>
+
+</dataClasses>
+
+<dataClasses name="MyClass_IndexedAttributes" className="MyClass_IndexedAttributes" collectionName="MyClass_IndexedAttributesCollection" scope="public" uuid="DBCA8D6A33C6DB4595BAD6574240DB70">
+
+	<extraProperties ____objectunic="true" panelColor="#eee">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="477" Y="1530"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="8987C565C8DBB04CA9DAAF3A7325DF5E" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="cnum_Btree" kind="storage" scope="public" uuid="AF0E9606E80F044095D15353ADA830D4" type="number" indexKind="btree"/>
+
+	<attributes name="cnum_Cluster" kind="storage" scope="public" uuid="812EFF598E6D03458EBCA2219BEB7215" type="number" indexKind="cluster"/>
+
+	<attributes name="cnum_Keywords" kind="storage" scope="public" uuid="7C82ED7321EC4F48BCAE8712D2E18593" type="number" indexKind="keywords"/>
+
+	<attributes name="cnum_Automatic" kind="storage" scope="public" uuid="86F5F9EAF28E7F40B877BDDCFC4973BF" type="number" indexKind="auto"/>
+
+	<attributes name="cstring_Btree" kind="storage" scope="public" uuid="1A6D91249BF5064996543D07AFD7EB5B" type="string" indexKind="btree"/>
+
+	<attributes name="cstring_Cluster" kind="storage" scope="public" uuid="658160BF7FF41E41AB57602F6ECFB5A5" type="string" indexKind="cluster"/>
+
+	<attributes name="cstring_Keywords" kind="storage" scope="public" uuid="8C0E7654E9D1ED4BB9CA5E039A44E60D" type="string" indexKind="keywords"/>
+
+	<attributes name="cstring_Automatic" kind="storage" scope="public" uuid="BE2688C654003B459F309C95BAAD0BBB" type="string" indexKind="auto"/>
+
+	<attributes name="clong_Btree" kind="storage" scope="public" uuid="6181335FDD3E7B468FD11923305162B1" type="long" indexKind="btree"/>
+
+	<attributes name="clong_Cluster" kind="storage" scope="public" uuid="7858C6550102B24FA45A49B43D5AC0E9" type="long" indexKind="cluster"/>
+
+	<attributes name="clong_Keywords" kind="storage" scope="public" uuid="A3E72D0DDCDD784AA987EEE94E0CCFFE" type="long" indexKind="keywords"/>
+
+	<attributes name="clong_Automatic" kind="storage" scope="public" uuid="12E4837AAB91454FAC325FC02025400D" type="long" indexKind="auto"/>
+
+	<attributes name="cduration_Btree" kind="storage" scope="public" uuid="C39822B874C3F64CB9875583350558C2" type="duration" indexKind="btree"/>
+
+	<attributes name="cduration_Cluster" kind="storage" scope="public" uuid="DB258635F1813449B7D3B3F82B17BEC4" type="duration" indexKind="cluster"/>
+
+	<attributes name="cduration_Keywords" kind="storage" scope="public" uuid="92DB1FA1727C9A4B8383F7EC408AC632" type="duration" indexKind="keywords"/>
+
+	<attributes name="cduration_Automatic" kind="storage" scope="public" uuid="AAC6AAB231D30B4F908CCEFDF77D2D0C" type="duration" indexKind="auto"/>
+
+	<attributes name="cword_Btree" kind="storage" scope="public" uuid="B5F23024FBB98F4EA78FD1D21AB738DD" type="word" indexKind="btree"/>
+
+	<attributes name="cword_Cluster" kind="storage" scope="public" uuid="A019BC2859EE6746BAF17411BABD24DB" type="word" indexKind="cluster"/>
+
+	<attributes name="cword_Keywords" kind="storage" scope="public" uuid="CA1B8AB29E48254F80F316C8DE67CFC5" type="word" indexKind="keywords"/>
+
+	<attributes name="cword_Automatic" kind="storage" scope="public" uuid="AC6E1540CF810248BDD40906FC3032E2" type="word" indexKind="auto"/>
+
+	<attributes name="cdate_Btree" kind="storage" scope="public" uuid="63AF1D3ACB36824998CABCA355BC32C0" type="date" simpleDate="false" indexKind="btree"/>
+
+	<attributes name="cdate_Cluster" kind="storage" scope="public" uuid="BC8ACFF324D93248B728E0C69A772F39" type="date" simpleDate="false" indexKind="cluster"/>
+
+	<attributes name="cdate_Keywords" kind="storage" scope="public" uuid="4EF06E9AFDE008429C4045568DB23A53" type="date" simpleDate="false" indexKind="keywords"/>
+
+	<attributes name="cdate_Automatic" kind="storage" scope="public" uuid="E0106AF33BE2FF48890E6EFE8E279D99" type="date" simpleDate="false" indexKind="auto"/>
+
+	<attributes name="cbyte_Btree" kind="storage" scope="public" uuid="F7CF2423C7F0C54B9B2A9CA94CEF5613" type="byte" indexKind="btree"/>
+
+	<attributes name="cbyte_Automatic" kind="storage" scope="public" uuid="31C222F77749834C8974B3CC9CC46249" type="byte" indexKind="auto"/>
+
+</dataClasses>
+
+<dataClasses name="MyClass_QueryTests" className="MyClass_QueryTests" collectionName="MyClass_QueryTestsCollection" scope="public" uuid="BA2E4D0BF283CB4B8EDC0F7DA0E27F54">
+
+	<extraProperties ____objectunic="true" panelColor="rgb(199, 61, 69)">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true" resizedHeight="">
+
+			<position ____objectunic="true" X="238" Y="1490"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="C76EA47EB15A1349A0A123A0FDDD6DC6" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="name" kind="storage" scope="public" uuid="AEBDB6EDECA5AE438FE503142AA22E01" type="string"/>
+
+	<attributes name="cnum" kind="storage" scope="public" uuid="CAB23D096C9D3047A6701D5CA9B0360B" type="number"/>
+
+	<attributes name="cbyte" kind="storage" scope="public" uuid="431B22059D678D41B5CCF39D8486360E" type="byte"/>
+
+	<attributes name="clong" kind="storage" scope="public" uuid="5B78600BC3DBDE48BFDFA0D5F6BC6485" type="long"/>
+
+	<attributes name="cduration" kind="storage" scope="public" uuid="6A3790517E216B48973F520292A5D0DE" type="duration"/>
+
+	<attributes name="cbool" kind="storage" scope="public" uuid="6DF8FAAF091A184A8CA55B526838BC76" type="bool"/>
+
+	<attributes name="cdate" kind="storage" scope="public" uuid="2EE17B9B3828B3428C9BE5160F826DCA" type="date" simpleDate="false"/>
+
+</dataClasses>
+
+<dataClasses name="MyClass1" className="MyClass1" collectionName="MyClass1Collection" scope="public" uuid="EE9C6704FC25924EAA85339402B2A335">
+
+	<extraProperties ____objectunic="true" panelColor="#CCC1D9">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="20" Y="129"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="6B778A86AC3A814E82A1986DDF15B4A8" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="name" kind="storage" scope="public" uuid="CFABA1EF77F965458774DB232FB63D59" type="string"/>
+
+	<attributes name="cnum" kind="storage" scope="public" uuid="10C148888855634694B37176F12F3803" type="number"/>
+
+	<attributes name="cdate" kind="storage" scope="public" uuid="6C3502388953504EA2DC73114AFB8A3E" type="date" simpleDate="false"/>
+
+	<attributes name="cblob" kind="storage" scope="public" uuid="0979A9156011FE45825FF9D6A8F6C6E8" type="blob"/>
+
+	<attributes name="cbyte" kind="storage" scope="public" uuid="15EDF03852710248844FACE7EEAEEE99" type="byte"/>
+
+	<attributes name="clong" kind="storage" scope="public" uuid="25287F4532E41D4AA2F5BA1CA686D0C7" type="long"/>
+
+	<attributes name="cword" kind="storage" scope="public" uuid="3882B7B9F5C4064FB20CAEF5B47AFFB6" type="word"/>
+
+	<attributes name="cuuid" kind="storage" scope="public" uuid="E57B6F2591C4B14682B5289D25EDDC72" type="uuid"/>
+
+	<attributes name="cduration" kind="storage" scope="public" uuid="D3CDD3C27C2572439A74CCCE1B9823A2" type="duration"/>
+
+	<attributes name="cimage" kind="storage" scope="public" uuid="7ED061A63380384B8267594F99F2C4DB" type="image"/>
+
+	<attributes name="clink" kind="relatedEntity" scope="public" uuid="684DC2B7F2F087469E4A9A66C4810FA9" type="MyClass3" path="MyClass3Collection"/>
+
+	<attributes name="cbool" kind="storage" scope="public" uuid="4C8F4E140D5B844C8E7993AA5FFC0E31" type="bool"/>
+
+</dataClasses>
+
+<dataClasses name="MyClass10" className="MyClass10" collectionName="MyClass10Collection" scope="public" uuid="91196172901D174BBF0AB1CE4C999B8B">
+
+	<extraProperties ____objectunic="true" panelColor="#996699">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+			<position ____objectunic="true" X="608" Y="941"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="E8DCEA747FFD2B45AD137B286CBAFAC8" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="cname" kind="storage" scope="public" uuid="4CA47A314198D54A9863123D16372F57" type="string"/>
+
+	<attributes name="myClass9Collection" kind="relatedEntities" scope="public" type="MyClass9Collection" reversePath="true" path="clink"/>
+
+</dataClasses>
+
+<dataClasses name="MyClass2" className="MyClass2" collectionName="MyClass2Collection" scope="public" uuid="FE463FF0BBEF324B99E00E9ACAAE562D">
+
+	<extraProperties ____objectunic="true" panelColor="#C4BD97">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+			<position ____objectunic="true" X="475" Y="149"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="7A800F74141A684B85919E98CE7C8D62" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="distinct" kind="storage" scope="public" uuid="43481B707AF3EC45AC899E2A7CA3B313" type="number"/>
+
+	<attributes name="cnum" kind="storage" scope="public" uuid="0724F45E26FD9144A9F95D50ED241BFC" type="number"/>
+
+	<attributes name="asc" kind="storage" scope="public" uuid="DCEA5FDC2DF2D34389CF7271E6D17B2D" type="number"/>
+
+	<attributes name="desc" kind="storage" scope="public" uuid="25FD1AF3D992784F8AE84B2B43991D67" type="number"/>
+
+</dataClasses>
+
+<dataClasses name="MyClass3" className="MyClass3" collectionName="MyClass3Collection" scope="public" uuid="D282E1A1CD677F4CA4B4DC3DC03BB7FE">
+
+	<extraProperties ____objectunic="true" panelColor="#D8D8D8">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+			<position ____objectunic="true" X="267" Y="436"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="B6FB9302E9AB0340ACCD158C49A41825" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="cnum" kind="storage" scope="public" uuid="1C69EAFFF7A2C54A9AC9CF11BFAB06AC" type="number"/>
+
+	<attributes name="myClass1Collection" kind="relatedEntities" scope="public" type="MyClass1Collection" reversePath="true" path="clink"/>
+
+</dataClasses>
+
+<dataClasses name="MyClass4" className="MyClass4" collectionName="MyClass4Collection" scope="public" uuid="CD92805CFFDF1644B9F25204FF71A597">
+
+	<extraProperties ____objectunic="true" panelColor="#548DD4">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="false" resizedHeight="">
+
+			<position ____objectunic="true" X="254" Y="259"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="B70C0213D023934E8FA972632259E76A" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="name" kind="storage" scope="public" uuid="06AFC7F89FBEB548A19C0A827C0E3168" type="string"/>
+
+	<attributes name="cbool" kind="storage" scope="public" uuid="EA29BFCA47ED1B4AA6DEF2E6BC170F8B" type="bool"/>
+
+	<attributes name="toBeRemoved" kind="relatedEntity" scope="public" uuid="ADFC52A79E242B458191D9B0F6F2B863" type="ToBeRemoved" path="ToBeRemoved"/>
+
+</dataClasses>
+
+<dataClasses name="MyClass7" className="MyClass7" collectionName="MyClass7Collection" scope="public" uuid="D960949C299E3D45A1BFFF87C941BD1A">
+
+	<extraProperties ____objectunic="true" panelColor="#B8CCE4">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+			<position ____objectunic="true" X="20" Y="530"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="E6ADA1A23575264F9FA6F9142DD269F7" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="name" kind="storage" scope="public" uuid="19BF03BCAAE9394FA67E7D363B6B25CE" type="string"/>
+
+	<attributes name="cnum" kind="storage" scope="public" uuid="468B691537B5604A873A112837D60248" type="number"/>
+
+</dataClasses>
+
+<dataClasses name="MyClass8" className="MyClass8" collectionName="MyClass8Collection" scope="public" uuid="2737BB96D522724CA8043E74AD9C8B9C">
+
+	<extraProperties ____objectunic="true" panelColor="#70CCC2">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+			<position ____objectunic="true" X="665" Y="1112"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="5E4DDA170DCB9E4B9AE6F5A1B61F15AA" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="name" kind="storage" scope="public" uuid="B2A391C13EE20B459676FEAC2C90949F" type="string"/>
+
+	<attributes name="age" kind="storage" scope="public" uuid="AA3308327D8C1243BB5BA7F9CDBACC6B" type="number"/>
+
+	<attributes name="salary" kind="storage" scope="public" uuid="269F42769E26BE4180746F5C798FD346" type="number"/>
+
+</dataClasses>
+
+<dataClasses name="MyClass9" className="MyClass9" collectionName="MyClass9Collection" scope="public" uuid="3A4D3439F0A7CD4382CC82D93F5E16B3">
+
+	<extraProperties ____objectunic="true" panelColor="#D88CFF">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="342" Y="741"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="5437316A49391844A19A4EE5347F30D0" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="name" kind="storage" scope="public" uuid="8CF0DC51C74C844E810AEA4AEA1C696B" type="string"/>
+
+	<attributes name="cnum" kind="storage" scope="public" uuid="CFB0439D6FFB1346B0558B6736E07046" type="number"/>
+
+	<attributes name="cdate" kind="storage" scope="public" uuid="64CCC1416BC20E45A16F0B6B7D5C622C" type="date" simpleDate="false">
+
+		<defaultFormat format="yyyy/mm/dd" presentation="text"/>
+
+	</attributes>
+
+	<attributes name="cblob" kind="storage" scope="public" uuid="48C3BE8C9992D64E9CE9D3CEF715E2A4" type="blob"/>
+
+	<attributes name="cbyte" kind="storage" scope="public" uuid="59A3EACFBDEAF9479057D8FFF090E7B3" type="byte"/>
+
+	<attributes name="clong" kind="storage" scope="public" uuid="B8B8D1CE6A99C54388CB58D2A5FAF176" type="long"/>
+
+	<attributes name="cword" kind="storage" scope="public" uuid="031ACA251428EF48AFDA15B74CD625BE" type="word"/>
+
+	<attributes name="cuuid" kind="storage" scope="public" uuid="00562F3E00E0F04282FC517857A15EDC" type="uuid"/>
+
+	<attributes name="cduration" kind="storage" scope="public" uuid="CFE8BAF2AD286D46B3696D8170BED83F" type="duration"/>
+
+	<attributes name="clink" kind="relatedEntity" scope="public" uuid="EFFDA4A75EF7F14DB2112C81A14F4765" type="MyClass10" path="MyClass10"/>
+
+</dataClasses>
+
+<dataClasses name="MyClassForImageTest" className="MyClassForImageTest" collectionName="MyClassForImageTestCollection" scope="public" uuid="D340CEFD186CF7459FE9E13ED23B685D">
+
+	<extraProperties ____objectunic="true" panelColor="#fff">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+			<position ____objectunic="true" X="258" Y="1195"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="2DFC1107425E74479B94CAA412D901A6" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="cname" kind="storage" scope="public" uuid="344C1ACD5941B14CBA70F7B080298C3F" type="string"/>
+
+	<attributes name="cimage" kind="storage" scope="public" uuid="69DED29E5F81884A9D94826DEB5E99DD" type="image"/>
+
+</dataClasses>
+
+<dataClasses name="MyClassForImageTest2" className="MyClassForImageTest2" collectionName="MyClassForImageTest2Collection" scope="public" uuid="5446FA1D7BCF864EA24DDB4F4BD3230A">
+
+	<extraProperties ____objectunic="true" panelColor="#4FA997">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+			<position ____objectunic="true" X="665" Y="1281"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="372B90B375EDA44CB889CD83C6AC1519" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="cname" kind="storage" scope="public" uuid="38469B9BFEF23E4FA94DC3615FE19893" type="string"/>
+
+	<attributes name="cimage" kind="storage" scope="public" uuid="42081C59A9A8D14685DED83CE9B6CCB0" type="image"/>
+
+</dataClasses>
+
+<dataClasses name="MyClassSave" className="MyClassSave" collectionName="MyClassSaveCollection" scope="public" uuid="9BADCDA36666B347876633297C714BCF">
+
+	<extraProperties ____objectunic="true" panelColor="#76923C">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+			<position ____objectunic="true" X="255" Y="136"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="0D925D5E2A80BB4EA9DD0E96797896A6" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="cnum" kind="storage" scope="public" uuid="03155065CCF76A4D8D2AD8D731C91D9B" type="number"/>
+
+</dataClasses>
+
+<dataClasses name="MyClassWithoutAttributs" className="MyClassWithoutAttributs" collectionName="MyClassWithoutAttributsCollection" scope="public" uuid="1546E88587275A4087ADEF6611A926BC">
+
+	<extraProperties ____objectunic="true" panelColor="#996699" isMinimized="false">
+
+		<panel ____objectunic="true" isOpen="true">
+
+			<position ____objectunic="true" X="32" Y="24"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="CD23F8D7E3984543AAE7E3E3F5E8187C" unique="true" autosequence="true" type="long" primKey="true"/>
+
+</dataClasses>
+
+<dataClasses name="MyEmptyClass" className="MyEmptyClass" collectionName="MyEmptyClassCollection" scope="public" uuid="D96C239DEE340844BD331A82A5050B1B">
+
+	<extraProperties ____objectunic="true" panelColor="#B7DDE8">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+			<position ____objectunic="true" X="253" Y="14"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="7F1B2E2BD1119A42AFAA62EE69CBAB06" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="cnum" kind="storage" scope="public" uuid="34A62E757D410C42A28578D0BA32D6A0" type="number"/>
+
+</dataClasses>
+
+<dataClasses name="MyForEachClass" className="MyForEachClass" collectionName="MyForEachClassCollection" scope="public" uuid="4E70BB91CE824E4BA646B64FF60C967A">
+
+	<extraProperties ____objectunic="true" panelColor="#B2A2C7">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="458" Y="1108"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="216DC07039583D488A576A5FB300BFC5" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="cname" kind="storage" scope="public" uuid="7C9332C5B3461B49997B3451A692D8AC" type="string"/>
+
+</dataClasses>
+
+<dataClasses name="MyFromArrayClass" className="MyFromArrayClass" collectionName="MyFromArrayClassCollection" scope="public" uuid="92AEDC677CDC3E489E7E275A5732468F">
+
+	<extraProperties ____objectunic="true" panelColor="#BFBFBF">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="22" Y="978"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="438AE8201675E849BD1A7058269749AB" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="name" kind="storage" scope="public" uuid="6A3F0DC95A8A364F8E5554EAF5673DC7" type="string"/>
+
+	<attributes name="cnum" kind="storage" scope="public" uuid="7D7598C5840141439A75D5BCA15FFD43" type="number"/>
+
+	<attributes name="cdate" kind="storage" scope="public" uuid="5817939C9BA47A4588811F62D9DC4BAE" type="date" simpleDate="false"/>
+
+	<attributes name="cblob" kind="storage" scope="public" uuid="9807D43746A03649A96668413593F31D" type="blob"/>
+
+	<attributes name="cbyte" kind="storage" scope="public" uuid="D401F9A44BDEA849BAA93B2B2E31DF6E" type="byte"/>
+
+	<attributes name="clong" kind="storage" scope="public" uuid="A5CE3728F283D94F9B710874216DAA63" type="long"/>
+
+	<attributes name="cword" kind="storage" scope="public" uuid="33C495B5D571434DA56A896C0560BCBE" type="word"/>
+
+	<attributes name="cuuid" kind="storage" scope="public" uuid="66DFC025FAEFEA418FBC8883BECB8974" type="uuid"/>
+
+	<attributes name="cduration" kind="storage" scope="public" uuid="0C517E1E899802499FD997E5050067C6" type="duration"/>
+
+</dataClasses>
+
+<dataClasses name="MyNewAutoSequenceNumberClass" className="MyNewAutoSequenceNumberClass" collectionName="MyNewAutoSequenceNumberClassCollection" scope="public" uuid="5B73FD81F0F6964CBE2ACC67342959D0">
+
+	<extraProperties ____objectunic="true" panelColor="#996699">
+
+		<panel ____objectunic="true" isOpen="true">
+
+			<position ____objectunic="true" X="259" Y="1094"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="E7B26B93FB4BEB4084406B2E2B663819" unique="true" autosequence="true" type="long" primKey="true"/>
+
+</dataClasses>
+
+<dataClasses name="MyNullClass" className="MyNullClass" collectionName="MyNullClassCollection" scope="public" uuid="9A5152AA2B09C8428FBF211C41BBFFC4">
+
+	<extraProperties ____objectunic="true" panelColor="#B2A2C7">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+			<position ____objectunic="true" X="477" Y="18"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="AE5D57DD9C53D84C8833596C04F59B7D" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="cnum" kind="storage" scope="public" uuid="63B5220A1E5416449ECE76F544CA44FB" type="string"/>
+
+</dataClasses>
+
+<dataClasses name="MyOrderbyClass" className="MyOrderbyClass" collectionName="MyOrderbyClassCollection" scope="public" uuid="04ED46393A5EF84CA1DD41BDF928B3CB">
+
+	<extraProperties ____objectunic="true" panelColor="#CCC1D9" isMinimized="false">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="39" Y="1434"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="7157C1D011168847A1BA3295CEBA0F8F" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="cnum" kind="storage" scope="public" uuid="80A871CBBD66FD48863C63CCAFC93592" type="number"/>
+
+	<attributes name="cstring" kind="storage" scope="public" uuid="449B6C0411B3BB45A3FD6FE58F26E7B8" type="string"/>
+
+	<attributes name="cdate" kind="storage" scope="public" uuid="EA62FCE3580DCE44ACBE6EBB00214C91" type="date" simpleDate="false"/>
+
+	<attributes name="cduration" kind="storage" scope="public" uuid="00A9720B023EC0488BE912B324A9043E" type="duration"/>
+
+	<attributes name="cuuid" kind="storage" scope="public" uuid="AEEC17A88748854EA4B12E142B4AC22C" type="uuid"/>
+
+	<attributes name="cstringAsBlob" kind="storage" scope="public" uuid="B22EA1C0DE38DE44A555A126EAED0152" type="string"/>
+
+	<attributes name="cblob" kind="storage" scope="public" uuid="10B19C7BA209A84CAF2E4B962A318C7D" type="blob"/>
+
+	<attributes name="cimage" kind="storage" scope="public" uuid="B1838FA107AD9D4A8EF0BC3662545B79" type="image"/>
+
+</dataClasses>
+
+<dataClasses name="MyRemoveForEachClass" className="MyRemoveForEachClass" collectionName="MyRemoveForEachClassCollection" scope="public" uuid="1F1EE98DFAD89243AA4B9474778BADBC">
+
+	<extraProperties ____objectunic="true" panelColor="#7F7F7F">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+			<position ____objectunic="true" X="606" Y="801"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="D4C5146403D2A743A5407C2641F541E1" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="cname" kind="storage" scope="public" uuid="87A8631930D4AA4A87ED92CA2BD8BFFC" type="string"/>
+
+</dataClasses>
+
+<dataClasses name="OneToN" className="OneToN" collectionName="OneToNCollection" scope="public" uuid="5272ADC44268B146B786965BC526DA14">
+
+	<extraProperties ____objectunic="true" panelColor="#4FA997">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="803" Y="2005"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="0A18C3ED66440649847672FA39BEC3E9" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="name" kind="storage" scope="public" uuid="3B41E7A4AD68604A864721CA6E293925" type="string"/>
+
+	<attributes name="oneToN" kind="relatedEntity" scope="public" uuid="49325CD89CFF484982E3636E4EC8ACB0" type="OneToN2" path="OneToN2"/>
+
+</dataClasses>
+
+<dataClasses name="OneToN2" className="OneToN2" collectionName="OneToN2Collection" scope="public" uuid="350F25B6CF733F40A95A0D36FEC55A81">
+
+	<extraProperties ____objectunic="true" panelColor="rgb(118, 146, 60)">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="187" Y="2123"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="4B618F22E0003E43AB9BE26D796F3C2B" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="name" kind="storage" scope="public" uuid="7622D23BC70CB842869FA472654F4ED7" type="string"/>
+
+	<attributes name="clink" kind="relatedEntities" scope="public" type="OneToNCollection" reversePath="true" path="oneToN"/>
+
+</dataClasses>
+
+<dataClasses name="OnSaveNoValidation" className="OnSaveNoValidation" collectionName="OnSaveNoValidationCollection" scope="public" uuid="490C581D263CE54AA96ABDB53B45A02C">
+
+	<extraProperties ____objectunic="true" panelColor="#7F7F7F">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="242" Y="2468"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="7508920FC737EE48AFC6C9F069FA4AE7" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="nom" kind="storage" scope="public" uuid="412206BD01B4FF4CA1563F8C1DEDDD75" type="string"/>
+
+	<events kind="onSave" from="guidedModel.OnSaveNoValidation.events.onSave"/>
+
+	<events kind="onRemove" from="guidedModel.OnSaveNoValidation.events.onRemove"/>
+
+</dataClasses>
+
+<dataClasses name="Parent" className="Parent" collectionName="ParentCollection" scope="public" uuid="B708560D3F7D413B9A5899B713BF203D">
+
+	<attributes name="ID" kind="storage" scope="public" uuid="FEC9EDD2CB32462A97472D8636B217E6" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="name" kind="storage" scope="public" uuid="B78980E3E3C540338A40EAD644EB3BFA" type="string"/>
+
+</dataClasses>
+
+<dataClasses name="Child" className="Child" collectionName="ChildCollection" scope="public" extends="Parent">
+
+	<attributes name="related" kind="relatedEntity" scope="public" uuid="07A11AB11E3C4810B096DCD05AF5F522" type="Related" path="Related"/>
+
+</dataClasses>
+
+<dataClasses name="People" className="People" collectionName="PeopleCollection" scope="public" uuid="CAA680556D9AF543AA6DA66C474F8CCA">
+
+	<extraProperties ____objectunic="true" panelColor="#C4BD97">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true" resizedHeight="">
+
+			<position ____objectunic="true" X="22" Y="681"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="DB1A51E26E38654DA6C1BB0DA9BEAE02" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="name" kind="storage" scope="public" uuid="65F74A62949DC94E8B0FB5DB385B608F" type="string"/>
+
+	<attributes name="father" kind="relatedEntity" scope="public" uuid="8CE7C743BFE1374B902410407EA095C8" type="People" path="People"/>
+
+	<attributes name="people_father" kind="relatedEntities" scope="public" type="PeopleCollection" reversePath="true" path="father"/>
+
+	<attributes name="mother" kind="relatedEntity" scope="public" uuid="0E70CA9CD96AB9458AC63ED3013A6286" type="People" path="People"/>
+
+	<attributes name="people_mother" kind="relatedEntities" scope="public" type="PeopleCollection" reversePath="true" path="mother"/>
+
+	<attributes name="sexe" kind="storage" scope="public" uuid="5FC1C31589C89D4CA4060FFD79AB7C7F" type="string"/>
+
+</dataClasses>
+
+<dataClasses name="Personn" className="Personn" collectionName="PersonnCollection" scope="public" uuid="36EC38674F409749A5F9644FA1BCDF6D">
+
+	<extraProperties ____objectunic="true" panelColor="#76923C">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="672" Y="1434"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="F621028F2BD38648B0FF6D71FB725607" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="personn" kind="storage" scope="public" uuid="CAC3CFC7B10D104F816AD9885B960D66" type="string"/>
+
+</dataClasses>
+
+<dataClasses name="RefuseEvent" className="RefuseEvent" collectionName="RefuseEventCollection" scope="public" uuid="D5FCB079385B65499771491192C2C5C3">
+
+	<extraProperties ____objectunic="true" panelColor="#B8CCE4">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="32" Y="2466"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="42450AF443437B428FDC96A579CBEDEB" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="nom" kind="storage" scope="public" uuid="EC571F8C5936E2439FB7C40B1F43D9C7" type="string"/>
+
+	<attributes name="cbool" kind="storage" scope="public" uuid="F02573E5E97C7C49A39F01CA09F2AA3C" type="bool"/>
+
+	<events kind="onSave" from="guidedModel.RefuseEvent.events.onSave"/>
+
+	<events kind="onValidate" from="guidedModel.RefuseEvent.events.onValidate"/>
+
+</dataClasses>
+
+<dataClasses name="Related" className="Related" collectionName="RelatedCollection" scope="public" uuid="970A27FD515A489A98ADD41AA640BF5E">
+
+	<attributes name="ID" kind="storage" scope="public" uuid="A1CDE35A8435455F83B98F99D25BBE3E" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="name" kind="storage" scope="public" uuid="448159FB423A4A4899C2F2830CB2B0F2" type="string"/>
+
+	<attributes name="childCollection" kind="relatedEntities" scope="public" type="ChildCollection" reversePath="true" path="related"/>
+
+</dataClasses>
+
+<dataClasses name="TheComposite" className="TheComposite" collectionName="ComposeOf1Collection" scope="public" uuid="2AAD927D8B8356449107725733BD9FDE">
+
+	<extraProperties ____objectunic="true" panelColor="#B8CCE4">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="false" resizedHeight="">
+
+			<position ____objectunic="true" X="536" Y="535"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="B986EDC19411A94DBCEE97F30C24FE92" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="name" kind="storage" scope="public" uuid="1E53A67D2C5B9846A830CADB37B5477D" type="string"/>
+
+	<attributes name="compnent" kind="composition" scope="public" type="ComponentCollection" reversePath="true" path="theComposite"/>
+
+</dataClasses>
+
+<dataClasses name="ToBeDroped" className="ToBeDroped" collectionName="ToBeDropedCollection" scope="public" uuid="BC07D56B7B2696458BE7BA904873B813">
+
+	<extraProperties ____objectunic="true" panelColor="#B8CCE4">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="457" Y="1231"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="D325551F83698D4F818A44DE38DCEC8F" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="name" kind="storage" scope="public" uuid="7CD98412296A174BB6809548E095C717" type="string"/>
+
+</dataClasses>
+
+<dataClasses name="ToBeRemoved" className="ToBeRemoved" collectionName="ToBeRemovedCollection" scope="public" uuid="5F935F4662E75149BA8B549FCAA84386">
+
+	<extraProperties ____objectunic="true" panelColor="#D88CFF">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="false">
+
+			<position ____objectunic="true" X="520" Y="353"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="E1A5A0F91BA3E047B75CB3DE7F08FB6A" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="name" kind="storage" scope="public" uuid="0BBC28B5252CA24B8154A78A6BB2E538" type="string"/>
+
+	<attributes name="age" kind="storage" scope="public" uuid="78AEC9ABE34E4947805DECD79797CE4F" type="number"/>
+
+	<attributes name="clink" kind="relatedEntities" scope="public" type="MyClass4Collection" reversePath="true" path="toBeRemoved"/>
+
+</dataClasses>
+
+<dataClasses name="Users" className="Users" collectionName="UsersCollection" scope="public" uuid="4D1DF73B98E83C4AB24A3D023ADDF702">
+
+	<extraProperties ____objectunic="true" panelColor="#D7E3BC">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="490" Y="2477"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="AE7F69A984DFE24AA0F9C692D8A07E68" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="name" kind="storage" scope="public" uuid="473F97EA126D4D4686E579F1987B8CD0" type="string"/>
+
+</dataClasses>
+</EntityModelCatalog>
